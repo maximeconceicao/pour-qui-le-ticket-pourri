@@ -46,6 +46,9 @@ export const props = [
       {
         label: "Juliette",
       },
+      {
+        label: "Maxime",
+      },
     ],
   },
 
