@@ -32,16 +32,7 @@ export const props = [
         label: "Olivier",
       },
       {
-        label: "Jean",
-      },
-      {
         label: "Clément",
-      },
-      {
-        label: "Marcel",
-      },
-      {
-        label: "Paul",
       },
       {
         label: "Juliette",
